@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#generalContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+#secondbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#print {
+  background-color: rgb(235, 235, 235);
+
+  max-height: 500px;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#Location {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+  background-color: rgb(235, 235, 235);
+}
+
+#Titles {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+  margin-left: 20px;
+  background-color: rgb(235, 235, 235);
+}
+
+#btn {
+  border-radius: 10px;
+  margin-left: 20px;
+  height: 50px;
+  width: 60px;
+  background-color: rgb(150, 191, 150);
+  border: none;
+}
